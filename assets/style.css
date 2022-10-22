@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+* {
+    background-color: lavender;
+}
+
+body {
+    background-color: teal;
+}
+
+header,
+footer {
+    background-color: teal;
+}
+
+.rightalign {
+    text-align: right;
+
+}
