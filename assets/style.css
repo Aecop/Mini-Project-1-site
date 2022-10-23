@@ -1,19 +1,47 @@
 @charset "utf-8";
 
 * {
-    background-color: lavender;
+    font-family: monospace;
 }
 
 body {
-    background-color: teal;
+    background-color: grey;
 }
 
 header,
 footer {
-    background-color: teal;
+    background-color: lightyellow;
+    position: static;
+   
 }
+
+#mainname {
+    text-align: left;
+    font-size: x-large;
+
+}
+
+
 
 .rightalign {
     text-align: right;
-
 }
+
+
+ul {
+    padding: 30px;
+    height: 100px;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    font-size: large;
+    
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
