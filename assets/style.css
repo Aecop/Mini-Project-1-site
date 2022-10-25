@@ -22,10 +22,16 @@ footer {
 
 }
 
+
+
 .rightalign {
     text-align: right;
 }
 
+.inputsection {
+    text-align: center;
+    height: 100px;
+}
 
 ul {
     padding: 30px;
@@ -64,3 +70,4 @@ img {
 h3 {
     text-align: center;
 }
+
