@@ -22,7 +22,9 @@ footer {
 
 }
 
-
+#submit {
+    height: 30px;
+}
 
 .rightalign {
     text-align: right;
@@ -30,7 +32,7 @@ footer {
 
 .inputsection {
     text-align: center;
-    height: 100px;
+    height: 150px;
 }
 
 ul {
@@ -71,3 +73,6 @@ h3 {
     text-align: center;
 }
 
+input {
+    height: 20px;
+}
